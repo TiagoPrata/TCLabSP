@@ -35,7 +35,7 @@ TCLab
 
 Segue abaixo uma pequena descrição dos componentes do [TCLab](https://apmonitor.com/heat.htm).
 
-![Componentes TCLab](./_images/TCLab_color_numbers.png)
+![Componentes TCLab](./_images/tclab_color_numbers.png)
 
 Item | Descrição
 -----|----------
@@ -51,8 +51,9 @@ Item | Descrição
 Esquema de ligação
 ------------------
 
-![Diagrama geral](./_images/diagrama_01.png)
-![Diagrama macro](./_images/diagrama_02.png)
+Geral | Macro
+------|------
+![Diagrama geral](./_images/diagrama_01.png) | ![Diagrama macro](./_images/diagrama_02.png)
 
 Simulink R2016a
 ---------------
