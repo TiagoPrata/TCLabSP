@@ -1,6 +1,8 @@
 TCLabSP - Temperature Control Laboratory Sao Paulo
 ==================================================
 
+[![DOI](https://zenodo.org/badge/220897155.svg)](https://zenodo.org/badge/latestdoi/220897155)
+
 Este projeto contém os arquivos referentes a um esboço de uma planta didática para controle de temperatura para uso em disciplinas de automação e controle de processos.
 
 SolidWorks2017
